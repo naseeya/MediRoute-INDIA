@@ -1,4 +1,4 @@
-# MediRoute India 🏥
+# MediRoute India 
 ### AI-Powered Healthcare Navigator & Cost Estimator
 
 > **TenzorX Hackathon · Poonawalla Fincorp · Problem Statement B**
@@ -101,7 +101,7 @@ For healthcare lenders (Poonawalla Fincorp use case):
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | Vanilla HTML/CSS/JS — single file, zero dependencies |
+| Frontend | HTML/CSS/JS — single file, zero dependencies |
 | AI Engine | Groq API · Llama 3.3 70B Versatile |
 | Clinical Coding | ICD-10-CM, SNOMED-CT (via LLM mapping) |
 | Cost Benchmarks | CGHS 2023 Schedule, PM-JAY HBP 2.0, NHA |
@@ -122,18 +122,18 @@ For healthcare lenders (Poonawalla Fincorp use case):
 | **OpenStreetMap** | Real GPS coordinates | Distance calculation, map display |
 | **Hospital Websites / NHA Empanelment** | Beds, specialties, insurance | Provider ranking |
 
-> ⚠️ No proprietary data used. All sources are public. Synthetic cost variance modelling ±30% applied per CGHS methodology.
+>  No proprietary data used. All sources are public. Synthetic cost variance modelling ±30% applied per CGHS methodology.
 
 ---
 
 ## Responsible AI Design
 
-- 🚫 **No diagnostic claims** — decision support only, never diagnosis or treatment advice
-- 📊 **Confidence scoring** — every output carries a 0–1 score; low confidence = wider ranges
-- 🔓 **Transparent ranking** — all 5 dimensions and weights disclosed to user
-- ⚠️ **Risk flagging** — comorbidities surfaced proactively with cost escalation warnings
-- 🔒 **Public data only** — fully auditable, no proprietary hospital pricing
-- 🏥 **Professional referral** — every output closes with directive to consult a doctor
+-  **No diagnostic claims** — decision support only, never diagnosis or treatment advice
+-  **Confidence scoring** — every output carries a 0–1 score; low confidence = wider ranges
+-  **Transparent ranking** — all 5 dimensions and weights disclosed to user
+-  **Risk flagging** — comorbidities surfaced proactively with cost escalation warnings
+-  **Public data only** — fully auditable, no proprietary hospital pricing
+-  **Professional referral** — every output closes with directive to consult a doctor
 
 ---
 
@@ -162,7 +162,7 @@ MediRoute-INDIA/
 
 ---
 
-## Team
+## Team name - Winners
 
 Built for TenzorX · Poonawalla Fincorp Hackathon · Problem Statement B — AI Healthcare Navigator
 
