@@ -11,7 +11,7 @@
 
 ## What is MediRoute?
 
-MediRoute is a **decision intelligence engine** — not a chatbot — that translates patient intent into structured clinical and financial recommendations.
+MediRoute is a **decision intelligence engine**, not a chatbot — that translates patient intent into structured clinical and financial recommendations.
 
 ```
 Patient Intent → Clinical Pathway → Provider Ranking → Cost Estimation
