@@ -156,7 +156,6 @@ For healthcare lenders (Poonawalla Fincorp use case):
 MediRoute-INDIA/
 ├── index.html          ← Full application (single file, self-contained)
 ├── README.md           ← This file
-├── LICENSE             ← MIT License
 └── .nojekyll           ← GitHub Pages config
 ```
 
