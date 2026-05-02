@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Configuration files
+public/config.js
