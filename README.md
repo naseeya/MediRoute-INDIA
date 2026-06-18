@@ -1,8 +1,6 @@
 # MediRoute India 
 ### AI-Powered Healthcare Navigator & Cost Estimator
 
-> **TenzorX Hackathon · Poonawalla Fincorp · Problem Statement B**
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-b83018?style=for-the-badge)](https://naseeya.github.io/MediRoute-INDIA)
 [![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq%20Llama%203.3%2070B-orange?style=for-the-badge)](https://groq.com)
 [![Data](https://img.shields.io/badge/Data-CGHS%202023%20%7C%20PM--JAY%20HBP%202.0-blue?style=for-the-badge)](#data-sources)
@@ -61,7 +59,7 @@ Queries against a verified database of **80 real hospitals** across **28 cities*
 
 | Coverage | Details |
 |----------|---------|
-| Cities | Nagpur, Jaipur, Lucknow, Bhopal, Coimbatore, Indore, Vizag, Pune, Chandigarh, Raipur, Patna, Kochi, Bhubaneswar, Guwahati, Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Mysore, Madurai, Ludhiana, Agra, Vadodara, Nashik, Surat, Ahmedabad, Kolkata |
+| Cities | Nagpur, Jaipur, Lucknow, Bhopal, Coimbatore, Indore, Vizag, Pune, Chandigarh, Raipur, Patna, Kochi, Bhubaneswar, Guwahati, Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Mysore, Madurai,[...]
 | Data Fields | Name, address, phone, GPS coords, NABH/JCI status, bed count, ICU beds, specialties, rating, insurance empanelment |
 | Sources | NABH public directory, NHA empanelment lists, hospital websites |
 
@@ -89,7 +87,6 @@ Costs broken into **7 components** using CGHS 2023 rates as the base:
 | ICU Escalation Buffer | Diabetes +18%, prior cardiac +35% |
 
 ### 5. Lending Intelligence Layer
-For healthcare lenders (Poonawalla Fincorp use case):
 - Procedure-level cost confidence bands
 - PM-JAY coverage as exposure-reduction signal
 - Comorbidity risk tier (LOW / MODERATE / HIGH / CRITICAL)
@@ -161,12 +158,6 @@ MediRoute-INDIA/
 
 ---
 
-## Team name - Winners
-
-Built for TenzorX · Poonawalla Fincorp Hackathon · Problem Statement B — AI Healthcare Navigator
-
----
-
 ## Disclaimer
 
-MediRoute is a decision-support tool only. It does not provide medical diagnosis, treatment advice, or guaranteed cost estimates. All recommendations should be verified with qualified healthcare professionals before making medical or financial decisions. Cost estimates are based on public benchmarks and may vary significantly from actual hospital charges.
+MediRoute is a decision-support tool only. It does not provide medical diagnosis, treatment advice, or guaranteed cost estimates. All recommendations should be verified with qualified healthcare professionals.
